@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Signatures Id="ID-052974de-b111-5cd2-5a3c-707fe61ffb1e">
+<ds:Signature Id="ID-052974de-b111-5cd2-5a3c-707feec8a097" xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+<ds:SignedInfo Id="ID-052974de-b111-5cd2-5a3c-707fe8c4cadb">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="ID-052974de-b111-5cd2-5a3c-707fea29307c" URI="#ID-052974de-b111-5cd2-5a3c-707fedc56ce7">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>NLgK6JnuHCYFfKf3ceGcrE6EZpk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="ID-052974de-b111-5cd2-5a3c-707fe9d92da5" URI="#ID-052974de-b111-5cd2-5a3c-707fec3c8923">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>YBLPhui5jAMj+f6ESiy4K7LSLN4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="ID-052974de-b111-5cd2-5a3c-707fe7573025">d0DEzv65gXsomHbi/kxAbQ677TFj2yAnVrH/UaHB9871yLk1aNJEJl8eu0H6glFFZ9XoZ2j3t/rlqh1o
+6uDYoH/alBlvoYL5NzyMhAsReGlXQxRK7LaOu6iFVyX8B6nMbF78GEMb4R9xcTd8RQv598cXtWv3hXfK
+YMo04SNAR0s=</ds:SignatureValue>
+<ds:KeyInfo>
+<ds:X509Data>
+<ds:X509Certificate>MIIDEDCCAfigAwIBAgICONMwDQYJKoZIhvcNAQEFBQAwTjELMAkGA1UEBhMCUEwxKDAmBgNVBAoTH0ty
+YWpvd2EgSXpiYSBSb3psaWN6ZW5pb3dhIFMuQS4xFTATBgNVBAMTDFNaQUZJUiBPWksyMTAeFw0wNzA0
+MjAxMzMwMDBaFw0wOTA0MjAxMzMwMDBaMDYxCzAJBgNVBAYTAlBMMQ8wDQYDVQQKDAZTWkFGSVIxFjAU
+BgNVBAMMDVNaQUZJUiAtIERFTU8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAK4armQVdSN0gNPp
+5Mgbi1OD3vDLi784dEApi+ezypFFg1xZEQvs8lzumG42iIencudKx3hT1nW4nG5uNP9iM0AmKatXkyIb
+XQ6lcn/qxubliFpT4/vM7NaM4nt7kqGtQH8WIuwIA1KSKxQUXfree/OJ0xp58PObpX7jrgjQIM/5AgMB
+AAGjgZMwgZAwHAYDVR0RBBUwE4ERc3phZmlyQGtpci5jb20ucGwwCwYDVR0PBAQDAgXgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMCBggrBgEFBQcDBDBEBgNVHR8EPTA7MDmgN6A1hjNodHRwOi8vd3d3Lmtpci5jb20u
+cGwvY2VydHlmaWthY2phX2tsdWN6eS9vemsyMS5jcmwwDQYJKoZIhvcNAQEFBQADggEBAJmbgPWg2fpG
+53AtOlzAXG0aTBOdaMH7/qnYlfh7ox5ZZGh2sXIMkUHBSkxgC1YhfsTvFwR1zdst0L2qW6JZUNXCjYtt
+tRqNUransIfVfMgadW/Omd05aynFvfmSTRzVChq+LM5ytGLU/MMOnGWtrfS918dEixHVUVZkgo+0iHeh
+x5t56IoYSYBVkknVDK3FkEc58IeTlzfW3GLFaTDrkROPnBgEwQDNQCph+L8GfFXGEMwxDxbG/4TKQFqc
+QvfFkHwAijV+86ticuZ3Tt8q+nwX6vRCl6dQ+yr1hYG/giSvWbEP8La7QZmP53XAf8bgMr4y3r3c6d/z
+EYyAcEYQD9c=</ds:X509Certificate>
+</ds:X509Data>
+</ds:KeyInfo>
+<ds:Object Encoding="http://www.w3.org/2000/09/xmldsig#base64" Id="ID-052974de-b111-5cd2-5a3c-707fedc56ce7" MimeType="text/plain">
+KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKg0KUGxpayB0ZWtzdG93eSBzdHdvcnpvbnkgbmEgcG90cnplYnkgdGVzdG93IG9wcm9ncmFtb3dhbmlhIGRvIHBvZHBpc3UgZWxla3Ryb25pY3puZWdvLg0KVHJlc2MgdGVnbyBwbGlrdSBuaWUgc3Rhbm93aSBvc3dpYWRjemVuaWEgd29saSBhbmkgemFkbmVqIGlubmVqIGRla2xhcmFjamksIGt0b3JhIG1vemUNCnd5bmlrYWMgeiBmYWt0dSBqZWogc3R3b3J6ZW5pYSBpIHBvZHBpc2FuaWEuIFBsaWtpIHRlc3Rvd2UgbW96bmEgem5hbGV6YyBuYSBzdHJvbmllDQpodHRwOi8vaXBzZWMucGwvDQoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq
+</ds:Object>
+<ds:Object>
+<QualifyingProperties Id="ID-052974de-b111-5cd2-5a3c-707feb88980a" Target="ID-052974de-b111-5cd2-5a3c-707feec8a097">
+<SignedProperties Id="ID-052974de-b111-5cd2-5a3c-707fec3c8923">
+<SignedSignatureProperties>
+<SigningTime>2007-10-23T14:00:42Z</SigningTime>
+<SigningCertificate>
+<Cert>
+<CertDigest>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>E0d610/2tVPlmIp8jzsWHLREtWg=</DigestValue>
+</CertDigest>
+<IssuerSerial>
+<ds:X509IssuerName>CN=SZAFIR OZK21,O=Krajowa Izba Rozliczeniowa S.A.,C=PL</ds:X509IssuerName>
+<ds:X509SerialNumber>14547</ds:X509SerialNumber>
+</IssuerSerial>
+</Cert>
+</SigningCertificate>
+<SignaturePolicyIdentifier>
+<SignaturePolicyImplied/>
+</SignaturePolicyIdentifier>
+</SignedSignatureProperties>
+<SignedDataObjectProperties>
+<DataObjectFormat ObjectReference="#ID-052974de-b111-5cd2-5a3c-707fedc56ce7">
+<Description>Dokument tekstowy [TXT]</Description>
+<MimeType>text/plain</MimeType>
+<Encoding>http://www.w3.org/2000/09/xmldsig#base64</Encoding>
+</DataObjectFormat>
+</SignedDataObjectProperties>
+</SignedProperties>
+</QualifyingProperties>
+</ds:Object>
+</ds:Signature>
+</Signatures>
